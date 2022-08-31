@@ -1,3 +1,8 @@
+
+---
+aliases: [dev 1, dev I, developer 1, developer I]
+---
+
 ## **General**
 
 - [x]   Delivers code on time with supervision meeting the Definition of Done
