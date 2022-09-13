@@ -11,7 +11,7 @@ aliases: [dev 1, dev I, developer 1, developer I]
     
 - [x]   Understands Definition of Done and works to establish a sustainable pace to meet that definition of done (code, unit test, integration, testing acceptance)
     
-- [ ]   Actively participates in pair-programming with a more experienced developer to understand application structure, design patterns, and approaches
+- [x]   Actively participates in pair-programming with a more experienced developer to understand application structure, design patterns, and approaches
     
 - [x]   Understands and actively participates in ceremonies (stand-up, planning, estimating, retrospective)
     
