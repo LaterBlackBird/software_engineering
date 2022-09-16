@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40ac0b950c9dbbdd",
+        "id": "c3c0af333fb05979",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Career Modles/Dev I Checklist.md",
+            "file": "Design/SOLID Principles.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career Modles/Dev I Checklist.md",
+                "file": "Design/SOLID Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career Modles/Dev I Checklist.md",
+                "file": "Design/SOLID Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career Modles/Dev I Checklist.md"
+                "file": "Design/SOLID Principles.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40ac0b950c9dbbdd",
+  "active": "c3c0af333fb05979",
   "lastOpenFiles": [
+    "SOLID.md",
+    "Design/SOLID Principles.md",
+    "Career Modles/Dev I Checklist.md",
     "Career Modles/Career Models.md",
+    "O3/220829 w Craig.md",
+    "O3/220916 w Craig.md",
+    "Career Modles/Pasted image 20220831100250.png",
     "Pasted image 20220831100437.png.md",
     "Pasted image 20220831100437.png",
-    "Career Modles/Pasted image 20220831100250.png",
-    "Career Modles/Dev I Checklist.md",
-    "developer 1.md",
-    "Developer 1.md",
-    "Career Modles/Sr Dev II Checklist.md",
-    "Career Modles/Sr Dev I Checklist.md",
-    "Career Modles/Dev II Checklist.md"
+    "developer 1.md"
   ]
 }

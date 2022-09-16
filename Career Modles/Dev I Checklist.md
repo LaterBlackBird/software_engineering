@@ -15,7 +15,7 @@ aliases: [dev 1, dev I, developer 1, developer I]
     
 - [x]   Understands and actively participates in ceremonies (stand-up, planning, estimating, retrospective)
     
-- [ ]  Begin learning about Design Patterns, SOLID principles
+- [ ]  Begin learning about Design Patterns, [[SOLID principles]]
     
 - [ ]  Understands principles of being a professional programmer
     
@@ -25,6 +25,7 @@ aliases: [dev 1, dev I, developer 1, developer I]
 - [x]  Able to setup/maintain development environment with assistance
     
 - [ ]  Basic understanding of operating system and how applications are hosted / run on the target platform
+	- [ ] ngx server
     
 - [x]  Understands Continuous Integration, and conceptually how deployments work
     
