@@ -3,7 +3,7 @@
 - [ ]  Delivers code on time with minimal supervision meeting the Definition of Done
     
 - [ ]  Develops and has demonstrated depth in two or more platforms or technologies
-    
+
 - [ ]  Begins mentoring more junior developers in pair programming situations
     
 - [ ]  Actively participates in pair programming with more experienced developers
