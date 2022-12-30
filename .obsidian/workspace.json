@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e50bb4ab73822724",
+        "id": "f2b360762ccfda70",
         "type": "tabs",
         "children": [
           {
-            "id": "a99504de6f81d204",
+            "id": "c084c0f8d0488a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading/Patterns.dev/Server-Side Rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25a4f79793c273dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,19 @@
             }
           },
           {
-            "id": "efccbf998891f710",
+            "id": "260c808ad3123613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Patterns.dev/Rendering Introduction.md",
+                "file": "Reading/Patterns.dev/React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Patterns.dev/Rendering Introduction.md",
+                "file": "Reading/Patterns.dev/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Patterns.dev/Rendering Introduction.md",
+                "file": "Reading/Patterns.dev/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Patterns.dev/Rendering Introduction.md"
+                "file": "Reading/Patterns.dev/React.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efccbf998891f710",
+  "active": "260c808ad3123613",
   "lastOpenFiles": [
-    "O3/220916 Career Coaching with Ajay.md",
     "Reading/Patterns.dev/Rendering Introduction.md",
-    "Reading/Patterns.dev/Time to First Byte.md",
-    "O3/221110 w Craig.md",
-    "O3/220916 w Craig.md",
-    "Career Modles/Dev II Checklist.md",
-    "Career Modles/Dev I Checklist.md",
-    "Career Modles/Career Models.md",
-    "Career Modles/Pasted image 20220831100250.png",
-    "Career Modles/Sr Dev I Checklist.md"
+    "Reading/Patterns.dev/Server-Side Rendering.md",
+    "Reading/Patterns.dev/Static Rendering.md",
+    "Reading/Clean Code/Chapter 13 - Concurrency.md",
+    "Reading/Patterns.dev/Largest Contentful Paint (LCP).md",
+    "Time to Interactive ().md",
+    "Reading/Patterns.dev/Total Blocking Time (TBT).md",
+    "Reading/Patterns.dev/Time to Interactive (TTI).md",
+    "Reading/Patterns.dev/Time to First Byte (TTFB).md",
+    "Reading/Patterns.dev/First Paint (FP).md"
   ]
 }
